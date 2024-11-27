@@ -1,5 +1,5 @@
 # Data Mining Course Assignment QMUL 
-This repository contains the code and analysis for the course assignment in Data Science and Statistics. The assignment involves various data manipulation, analysis, and visualization tasks using Python and its libraries such as pandas, matplotlib, and scikit-learn. Below is an overview of each task covered in the final report, which demonstrates the steps taken to analyze and manipulate datasets.
+This repository contains the code and analysis for the course assignment in Data Mining. The assignment involves various data manipulation, analysis, and visualization tasks using Python and its libraries such as pandas, matplotlib, and scikit-learn. Below is an overview of each task covered in the final report, which demonstrates the steps taken to analyze and manipulate datasets.
 
 ## Project Overview
 ### Task 1: Wine Dataset Analysis
